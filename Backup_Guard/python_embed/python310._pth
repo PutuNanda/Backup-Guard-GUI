@@ -1,0 +1,6 @@
+python310.zip
+.
+Lib\
+DLLs\
+tcl\
+import site
